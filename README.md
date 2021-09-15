@@ -1,9 +1,6 @@
+![bannière](bannière2.png)
 
-  ![bannière](bannière2.png)  
-  
-  
-  ## Hello world! I am Juju2307! 👋
-   
+  ## Hello world! I am Juju2307! 👋 
   ---------------  
   
   
@@ -38,6 +35,10 @@
    
    
    ### Contact me
+   
+   📫 metzjulie2@gmail.com  
+   
+   
    
    
 
