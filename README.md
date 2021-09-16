@@ -4,7 +4,7 @@
   ---------------  
   
   
-   ### About me
+   ## About me
    --------------
    👩‍💻 I am in professional retraining and am training in web development at BeCode Charleroi
    
@@ -16,7 +16,7 @@
    
    
    
-   ### Tech Stack
+   ## Tech Stack
    ---------------
    ![image](https://user-images.githubusercontent.com/83067647/133430647-b52a0ca1-ae8f-44de-b8d3-143e7ae2d65b.png)  
    
@@ -34,7 +34,7 @@
    
    
    
-   ### Contact me
+   ## Contact me
    
    📫 metzjulie2@gmail.com  
    
