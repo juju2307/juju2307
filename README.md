@@ -6,13 +6,13 @@
   
    ## About me
    --------------
-   👩‍💻 I am in professional retraining and am training in web development at BeCode Charleroi
+   👩‍💻 I am in professional reconversion and  currently training in web development at BeCode Charleroi
    
    👩‍🔬 I worked in the paramedical environment for 20 years because I graduated in occupational therapy
    
-   👨‍👧‍👧 I have 3 grown children who keep me up to date in the middle of the web
+   👨‍👧‍👧 I have 3 grown children who keep me up to date in the area of the web
    
-   🧑‍💻  I currently have more affinity with the front end but am not closed to advanced and train me in the back end as well  
+   🧑‍💻  I currently have more affinity with the front end but am not closed to advance and train  in the back end as well  
    
    
    
